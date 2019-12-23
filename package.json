@@ -1,0 +1,38 @@
+{
+  "name": "cra-template-redux-pilled",
+  "version": "1.0.0",
+  "author": {
+    "email": "sami.ghazouane@gmail.com",
+    "name": "zazapeta",
+    "url": "https://github.com/zazapeta"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "redux-form",
+    "redux-logger",
+    "redux-thunk",
+    "redux-orm",
+    "reselect",
+    "prettier",
+    "create-react-app",
+    "template"
+  ],
+  "description": "CRA template with redux utils",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zazapeta/cra-template-redux-pilled.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
